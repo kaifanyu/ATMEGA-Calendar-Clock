@@ -25,7 +25,7 @@ This C program is designed to run on an ATMEGA32-16PU-ND microcontroller. It con
 
 ## Setup
 
-![Setup Image]([https://your-image-url.com/your-image.jpg](https://cdn.discordapp.com/attachments/442574704126066690/1162140239897317386/IMG_1766.jpg?ex=653ada70&is=65286570&hm=00aa40ce8b2f66bd287c6b56b434b2e83944fe427babb33700d7972c491a0bd1&))
+![Setup Image](https://cdn.discordapp.com/attachments/442574704126066690/1162140239897317386/IMG_1766.jpg?ex=653ada70&is=65286570&hm=00aa40ce8b2f66bd287c6b56b434b2e83944fe427babb33700d7972c491a0bd1&)
 
 To set up this project, you will need the following hardware components:
 - ATMEGA32-16PU-ND microcontroller.
