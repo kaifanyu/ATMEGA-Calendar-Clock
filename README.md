@@ -1,5 +1,4 @@
-# Embedded-Clock
-This project was created for CompSci 145 Embedded Software.
+# ATMEGA-Calendar-Clock
 
 # ATMEGA32-16PU-ND Clock and Calendar Display
 
@@ -40,4 +39,4 @@ Make sure you have the necessary development environment and toolchain for progr
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/kaifanyu/Embedded-Clock
+git clone https://github.com/kaifanyu/ATMEGA-Calendar-Clock
